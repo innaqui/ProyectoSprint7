@@ -19,4 +19,12 @@ Esta aplicación web fue creada con Streamlit y permite explorar un conjunto de 
 1. Activa tu entorno virtual  
 2. Ejecuta este comando en la terminal:
 
+```
+streamlit run app.py
+``` 
+
+## Enlace a la app desplegada
+
+👉 https://proyectosprint7-vsc6.onrender.com/
+
 
